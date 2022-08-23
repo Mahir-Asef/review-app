@@ -1,0 +1,21 @@
+
+.hero-body{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    align-items:center;
+}
+@media only screen and (max-width:480px){
+    .hero-body{
+        display: flex;
+        flex-direction: column;
+        margin: 20px 0;
+        justify-content: center;
+        text-align: center;
+        align-items:center;
+    }
+    .img-div{
+        margin-top: 50px;
+    }
+}

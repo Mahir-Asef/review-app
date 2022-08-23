@@ -1,0 +1,13 @@
+
+nav{
+    padding: 20px 0;
+    
+}
+nav > Link{
+    margin-right: 30px;
+    text-decoration: none;
+}
+.link{
+    padding-right: 50px;
+    text-decoration: none;
+}
